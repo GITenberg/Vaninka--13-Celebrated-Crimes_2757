@@ -1,0 +1,35 @@
+_repo: Vaninka--13-Celebrated-Crimes_2757
+_version: 0.0.1
+covers:
+- cover_type: archival
+  image_path: 2757/2757-rst/images/cover.jpg
+  rights: Public domain in the USA.
+  rights_url: http://creativecommons.org/about/pdm
+creator:
+  author:
+    agent_name: Dumas, Alexandre
+    aliases:
+    - Dumas, Alexandre, pere
+    - Dumas père, Alexandre
+    - Dumas, Alexander
+    birthdate: 1802
+    deathdate: 1870
+    gutenberg_agent_id: '492'
+    url: http://www.gutenberg.org/2009/agents/492
+    wikipedia: http://en.wikipedia.org/wiki/Alexandre_Dumas,_père
+description: ''
+gutenberg_bookshelf: Crime Nonfiction
+gutenberg_issued: '2004-09-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2757'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Crime'
+- !lcc 'HV'
+- GITenberg
+title: "Vaninka\r\nCelebrated Crimes"
+url: http://www.gutenberg.org/ebooks/2757
